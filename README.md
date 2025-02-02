@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ikinhcode/ikinhcode/output/snake.svg" alt="Snake animation" />
+<iframe src="https://lottie.host/embed/a865405c-dedf-4c5d-b887-6e89c41e33ed/KkpzRBIwz7.lottie"></iframe>
 
 ###
